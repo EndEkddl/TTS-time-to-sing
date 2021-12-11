@@ -62,7 +62,7 @@ def main():
 
     # For loading checkpoint
     mode = config.load_checkpoint
-    cnt = 1
+    cnt = 0
     if mode==True:
       objG = load_checkpoint(config.loaded_checkpoint_path_G, G, optimizerG, config.learn_rate, cnt)
       objD = load_checkpoint(config.loaded_checkpoint_path_D, D, optimizerD, config.learn_rate, cnt)
