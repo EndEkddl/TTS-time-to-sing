@@ -40,3 +40,22 @@ CSD 데이터셋의 노래 50곡은 train set 41곡, validation set 1곡, test s
 아래의 링크에서 총 48개의 음성 파일을 확인할 수 있다.
 
 https://drive.google.com/drive/folders/1hUmeV4tJBexueuSgusQ7R-nNCsumiY_D?usp=sharing
+
+
+
+## 시스템 구조도
+<img src="https://user-images.githubusercontent.com/78426705/148323819-e1c84783-49cb-4735-b20f-d41e79742a84.jpg" width="600" height="350"/>
+
+## 데모 영상
+#### &#10004; 모델 학습 전처리
+<img src="https://user-images.githubusercontent.com/78426705/148324157-d2f5ea7b-5e8e-4223-b5f9-6a0bf8084953.gif" width="800" height="550"/>
+
+#### &#10004; 기본 제공 목소리로 노래 생성
+<img src="https://user-images.githubusercontent.com/78426705/148324167-d38dbb6e-f522-4bbe-997b-968f987616a5.gif" width="800" height="550"/>
+
+#### &#10004; Configuration Setting
+<img src="https://user-images.githubusercontent.com/78426705/148324170-90d0c276-774b-4dc2-9d8a-4b605fdbcd05.gif" width="800" height="550"/>
+
+#### &#10004; Information Tab
+<img src="https://user-images.githubusercontent.com/78426705/148324176-28e7e43d-f68b-42b0-8d20-6052acb26481.gif" width="800" height="550"/>
+
